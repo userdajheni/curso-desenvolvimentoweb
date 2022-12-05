@@ -22,7 +22,16 @@ body {
     margin: 0 auto;
 }
 
-/* cor do logo */
+#menu {
+    float: right;
+    padding: 10px 0;
+}
+
+/* logo */
 .verde {
     color: #b9c941;
+}
+
+#logo {
+    float: left;
 }

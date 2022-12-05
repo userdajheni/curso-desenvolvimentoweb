@@ -35,3 +35,29 @@ body {
 #logo {
     float: left;
 }
+/* Links */
+a {
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+/* Links não visitados */
+a:link {
+    color: #838383;
+}
+
+/* Links visitados */
+a:visited {
+    color: #838383;
+}
+
+/* Links hoover */
+a:hoover {
+    color: #fff;
+    background-color: #b9c941;
+}
+
+/* Links ativos */
+a:active {
+    color: #535353;
+}

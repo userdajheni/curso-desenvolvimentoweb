@@ -16,3 +16,13 @@ body {
     border-bottom: 1px solid #d8d8d8;
     height: 45px;
 }
+/* centralizando conteudo do menu */
+#area {
+    width: 720px;
+    margin: 0 auto;
+}
+
+/* cor do logo */
+.verde {
+    color: #b9c941;
+}
